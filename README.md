@@ -57,3 +57,4 @@ pro Bild
 
 ![](https://image.shutterstock.com/image-photo/successful-job-interview-boss-employee-260nw-485076070.jpg)
 
+# **Was ist die unterschied zwischen Pull und Push!**
